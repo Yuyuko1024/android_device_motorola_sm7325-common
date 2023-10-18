@@ -15,6 +15,8 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="config_show_refresh_rate_controls">true</bool>
+    
     <!-- Whether to show min refresh rate in display settings -->
     <bool name="config_show_min_refresh_rate_switch">true</bool>
 
